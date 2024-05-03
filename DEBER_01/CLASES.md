@@ -1,6 +1,10 @@
 # TAREA 01
 #### Integrantes:
 - Jairo Angulo
+-
+-
+-
+
 ## CLASE 01     29/04/2024
 
 
