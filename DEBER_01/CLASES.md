@@ -81,4 +81,83 @@ En la clase se vieron varios comandos resaltando principalmente 10 de ellos.
 - ![alt text](multi-seleccion.png)
 5. Windows: SHIFT+ALT+UP or DOWN  (copiar la linea arriba o abajo)
 - ![alt text](copiar-linea.png)
+
+___
+
+## MARKDOWN
+
+Permite agregar formato a documentos de texto plano y crear contenido de una manera sencilla de escribir mostrando un diseño legible al momento de tomar apuntes de clase.
+
+## SINTAXIS
+
+- Para colocar un texto en cursiva, se usa un * antes y después del texto. Ejemplo:
+
+<img src="ImagenesC/cursiva.png" width="150px">
+
+*Hola mundo*
+
+- Para un texto en negrita, se utilizan ** antes y después del texto. Ejemplo:
+
+<img src="ImagenesC/negrita.png" width="150px">
+  
+**Hola mundo**
+
+- Para un texto en negrita y cursiva, se usan *** antes y después del texto. Ejemplo:
+- 
+<img src="ImagenesC/cyn.png" width="150px">
+
+***Hola mundo***
+
+- Para representar un texto tachado se escribe dos virgulillas seguidas antes y después del texto. Ejemplo:
+
+<img src="ImagenesC/tachado.png" width="150px">
+  
+
+~~Hola Mundo~~ 
+
+- Para crear un título se utiliza un # antes del texto, separada por un espacio en blanco. Para crear subtítulos se insertan más #. Ejemplo:
+
+# Título 1
+## Título 2
+### Título 3
+
+<img src="ImagenesC/titulo.png" width="150px">
+
+- Para marcar un área de texto como código, se pone un acento al principio y otro al final del texto para delimitarla. Para iniciar y finalizar los bloques de código, se puede marcar el área correspondiente insertando tres acentos graves al principio y al final. Ejemplo:
+  
+<img src="ImagenesC/cod.png" width="450px">
+  
+  
+  ```java
+  public class Hola {
+    public static void main(String[] args) {
+        System.out.println();
+    }
+}
+```
+
+- Para insertar un URL o una dirección de correo electrónico:
+
+<img src="ImagenesC/hipervinculo.png" width="250px">
+
+[buscador google](http://google.com)
+
+- Para insertar una imagen:
+
+<img src="ImagenesC/img.png" width="250px">
+
+<img src="ImagenesC/cap.png" width="450px">
+
+- Para insertar tablas:
+  
+<img src="ImagenesC/tabla.png" width="350px">
+
+|Columna 1|Columna 2|
+|--------|--------|
+|    A    |    B    |
+|    C    |    D    |
+
+
+
 ## CLASE 03     01/05/2024
+
