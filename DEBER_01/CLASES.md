@@ -7,7 +7,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="logo-epn-vertical.png" alt="Logo de la EPN" width="350"/>
+  <img src="ImagenesC/logo-epn-vertical.png" alt="Logo de la EPN" width="350"/>
 </p>
 </br>
 </br>
@@ -60,28 +60,29 @@ A continuación, detallo dichas pautas con la solemnidad que ameritan:
 ### Comandos de Linux
 Dentro de clase se checaron 4 comandos importantes que fueron los siguientes:
 1. pwd: 
- - ![alt text](pwd-ejemplo.png)
-   **comando utilizado para ver la localización en la cual se encuentra el repositorio**
+ - ![alt text](ImagenesC/pwd-ejemplo.png)
+**comando utilizado para ver la localización en la cual se encuentra el repositorio**
 2. ls:
--  ![alt text](ls-ejemplo.png)
+-  ![alt text](ImagenesC/ls-ejemplo.png)
 **lista el contenido que se encuentre en el directorio**
 3. touch (*nombre del archivo que quiera crear mas el punto*):
--  ![alt text](touch-ejemplo.png) 
+-  ![alt text](ImagenesC/touch-ejemplo.png) 
 4. code (*archivo que quiera abrir*)
--  ![alt text](code-ejemplo.png) 
+-  ![alt text](ImagenesC/code-ejemplo.png) 
 ### Comandos de VsCode
 En la clase se vieron varios comandos resaltando principalmente 10 de ellos.
 1.  Windows: CTRL+SHIFT+P. (centro de comandos)
-- ![alt text](centro-comandos.png)
+- ![alt text](ImagenesC/centro-comandos.png)
 2. Windows: CTRL+P  (navegar entre archvivos abiertos)
-- ![alt text](ejemplo-comandos1.png)
+- ![alt text](ImagenesC/ejemplo-comandos1.png)
 3. Windows: CTRL+B  (esconder la barra del workspace)
-- ![alt text](barra-comando.png)
+- ![alt text](ImagenesC/barra-comando.png)
 4. Windows: CTRL+D  (multi selección)
-- ![alt text](multi-seleccion.png)
+- ![alt text](ImagenesC/multi-seleccion.png)
 5. Windows: SHIFT+ALT+UP or DOWN  (copiar la linea arriba o abajo)
-- ![alt text](copiar-linea.png)
+- ![alt text](ImagenesC/copiar-linea.png)
 
+## CLASE 03     01/05/2024
 ___
 
 ## MARKDOWN
@@ -158,6 +159,47 @@ Permite agregar formato a documentos de texto plano y crear contenido de una man
 |    C    |    D    |
 
 
+## GIT
 
-## CLASE 03     01/05/2024
+- Herramienta para facilitar el trabajo colaborativo.
+
+## Comandos
+
+- **Git commit**: Permite guardar los cambios realizados en el repositorio localmente.
+
+- **Git clone**: Clona un repositorio remoto en el repositorio local.
+
+- **Git status**: Muestra el estado actual del repositorio, incluyendo los cambios pendientes de commit y archivos no rastreados.
+
+- **Git branch**: Lista, crea o elimina ramas. También permite cambiar entre ramas.
+
+- **Git init**: Inicializa un nuevo repositorio Git en el directorio actual.
+
+- **Git push**: Sube los cambios locales a un repositorio remoto.
+
+- **Git pull**: Descarga los cambios del repositorio remoto y los fusiona con el repositorio local.
+
+- **Git add**: Agrega archivos al área de preparación para ser incluidos en el próximo commit.
+
+
+## Trabajo Local y Colaborativo
+
+Git es una herramienta de control de versiones distribuido, lo que significa que cada colaborador tiene una copia local del repositorio completo. Esto facilita el trabajo tanto individual como colaborativo
+
+### Trabajo Local
+
+- **Inicio del Proyecto**: Con `git init`, se inicia un nuevo repositorio Git en el directorio local del proyecto.
+- **Desarrollo de Funcionalidades**: Se crean nuevas ramas (`git branch`) para desarrollar nuevas funcionalidades sin afectar la rama principal (generalmente `master` o `main`).
+- **Guardar Cambios**: Con `git add` y `git commit`, se guardan los cambios en el repositorio local a medida que se avanza en el desarrollo.
+- **Revisión de Historial**: Utilizando `git log` y `git diff`, se revisa el historial de cambios y se comparan las diferencias entre versiones.
+- **Revertir Cambios**: Se pueden revertir cambios utilizando `git reset` o `git checkout`.
+
+### Trabajo Colaborativo
+
+- **Clonar el Repositorio**: Los colaboradores clonan el repositorio remoto con `git clone`.
+- **Desarrollar en Ramas**: Cada colaborador puede trabajar en su propia rama y luego fusionar los cambios con `git merge`.
+- **Comunicación**: Los cambios se comparten a través del repositorio remoto y se pueden revisar con `git pull`.
+- **Resolución de Conflictos**: Si hay conflictos entre los cambios de diferentes colaboradores, se resuelven manualmente antes de fusionar las ramas.
+- **Subir Cambios**: Los cambios se suben al repositorio remoto con `git push`, lo que permite que otros colaboradores vean y revisen los cambios.
+
 
