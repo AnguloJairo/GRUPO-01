@@ -81,6 +81,32 @@ En la clase se vieron varios comandos resaltando principalmente 10 de ellos.
 - ![alt text](ImagenesC/multi-seleccion.png)
 5. Windows: SHIFT+ALT+UP or DOWN  (copiar la linea arriba o abajo)
 - ![alt text](ImagenesC/copiar-linea.png)
+6. Comentar en el Code Block
+   
+**Windows:** Shift+Alt+A (Multi-line comment)
+             CTRL+K+C (Single-line comment)
+
+![imag1](Capturas/imag1.png)
+
+7. Regresar / Ir Adelante
+
+**Windows:** Alt+-> o + <-
+
+![imag2](Capturas/imag2.png)
+
+![imag3](Capturas/imag3.png)
+
+8. Mostrar todos los Symbolos 
+   
+**Windows:** CTRL+T
+
+![imag4](Capturas/imag4.png)
+
+9. Encender ayuda y encender los parametros hints
+   
+**Windows:** CTRL+Space, CTRL+Shift+Space
+
+![imag5](Capturas/imag5.png)
 
 ## CLASE 03     01/05/2024
 ___
