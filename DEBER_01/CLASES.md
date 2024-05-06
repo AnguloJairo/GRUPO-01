@@ -53,7 +53,7 @@ A continuación, detallo dichas pautas con la solemnidad que ameritan:
 | Homework     |     10%      |   Mensual    |
 | Proyecto     |     30%      |   Bimestral  |
 | Actuación    |   + 0.1      |   Siempre    |
-| Retos        |    +1.0      |   Siempre    |
+| Retos        |    +1.0      |   Bimestral  |
 </center>
 
 ## CLASE 02     30/04/2024
@@ -158,28 +158,18 @@ Permite agregar formato a documentos de texto plano y crear contenido de una man
 |    A    |    B    |
 |    C    |    D    |
 
+<div style="float: left; margin-right: 50px;">
+    <h1>GIT</h1>
+</div>
 
-## GIT
+<img src="ImagenesC/gittt.png" alt="Git Logo" width="100">
+
 
 - Herramienta para facilitar el trabajo colaborativo.
 
 ## Comandos
 
-- **Git commit**: Permite guardar los cambios realizados en el repositorio localmente.
-
-- **Git clone**: Clona un repositorio remoto en el repositorio local.
-
-- **Git status**: Muestra el estado actual del repositorio, incluyendo los cambios pendientes de commit y archivos no rastreados.
-
-- **Git branch**: Lista, crea o elimina ramas. También permite cambiar entre ramas.
-
-- **Git init**: Inicializa un nuevo repositorio Git en el directorio actual.
-
-- **Git push**: Sube los cambios locales a un repositorio remoto.
-
-- **Git pull**: Descarga los cambios del repositorio remoto y los fusiona con el repositorio local.
-
-- **Git add**: Agrega archivos al área de preparación para ser incluidos en el próximo commit.
+![alt text](ImagenesC/gitcomandos.png)
 
 
 ## Trabajo Local y Colaborativo
@@ -201,5 +191,3 @@ Git es una herramienta de control de versiones distribuido, lo que significa que
 - **Comunicación**: Los cambios se comparten a través del repositorio remoto y se pueden revisar con `git pull`.
 - **Resolución de Conflictos**: Si hay conflictos entre los cambios de diferentes colaboradores, se resuelven manualmente antes de fusionar las ramas.
 - **Subir Cambios**: Los cambios se suben al repositorio remoto con `git push`, lo que permite que otros colaboradores vean y revisen los cambios.
-
-
