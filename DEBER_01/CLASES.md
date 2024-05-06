@@ -1,4 +1,4 @@
-# TAREA 01
+# <div align="center">TAREA 01</div>
 # <div align="center">**ESCUELA POLITECNICA NACIONAL**</div>
 ### <div align="center">**Facultad de Ingenieria en Sistemas**</div>
 ### <div align="center">**Ingenieria en Computacion**</div>
