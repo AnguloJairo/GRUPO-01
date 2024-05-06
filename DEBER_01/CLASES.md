@@ -169,8 +169,9 @@ Permite agregar formato a documentos de texto plano y crear contenido de una man
 
 ## Comandos
 
-![alt text](ImagenesC/gitcomandos.png)
+</div>
 
+<img src="ImagenesC/gitcomandos.png" alt="Git Comandos" width="600">
 
 ## Trabajo Local y Colaborativo
 
